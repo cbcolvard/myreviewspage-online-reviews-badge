@@ -12,18 +12,19 @@ Displays a badge showing your online reviews from Google, Yahoo, Bing, Yelp, Cit
 
 The myReviewsPage WordPress plugin for small businesses creates a badge to display on your website. 
 
-It calls the APIs for Yelp, Yahoo, Bing, Citysearch and Foursquare via the [myReviewsPage](http://www.myreviewspage.com/blog/ myReviewsPage.com service and displays the number of online reviews for each on your website.
+It calls the APIs for Yelp, Yahoo, Bing, Citysearch and Foursquare via the [myReviewsPage](http://www.myreviewspage.com/blog/) myReviewsPage.com service and displays the number of online reviews for each on your website.
 
 Some features include: 
 
-* Automatically find and display your online reviews from your Google Places Page, Yahoo Local listing, Yelp, Bing, CitySearch and Foursquare
-* Display badge on any page or post on your WordPress website
-* Get email alerts when you receive a new online review (optional)
-* Optionally omit any of the review services from your badge
+* Automatically find and display your online reviews from your Google Places Page, Yahoo Local listing, Yelp, Bing, CitySearch and Foursquare.
+* Display badge on any page or post on your WordPress website.
+* Get email alerts when you receive a new online review (optional.)
+* Optionally omit any of the review services from your badge.
 
 More info:
-* [myReviewsPage Plugin](http://www.myreviewspage.com/blog/wordpress-plugin/)
-* Read more about [Local SEO and Online Reviews](http://www.expand2web.com/blog/) on Expand2Web
+
+* [myReviewsPage Plugin](http://www.myreviewspage.com/blog/wordpress-plugin/).
+* Read more about [Local SEO and Online Reviews](http://www.expand2web.com/blog/) on Expand2Web.
 
 == Installation ==
 
