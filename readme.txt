@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: doncampbell, rickybrent
-Donate link: http://www.myreviewspage.com/blog/
+Donate link: http://www.myreviewspage.com/blog/wordpress-plugin/
 Tags: small business website, online reviews
 Requires at least: 2.8.0
 Tested up to: 3.01
@@ -10,14 +10,20 @@ Displays a badge showing your online reviews from Google, Yahoo, Bing, Yelp, Cit
 
 == Description ==
 
-The myReviewsPage WordPress plugin for small businesses creates a badge to display on your website. It calls the APIs for Yelp, Yahoo, Bing, Citysearch and Foursquare via the [myReviewsPage](http://www.myreviewspage.com/blog/ "myReviewsPage" service and displays the number of online reviews for each on your website.
+The myReviewsPage WordPress plugin for small businesses creates a badge to display on your website. 
+
+It calls the APIs for Yelp, Yahoo, Bing, Citysearch and Foursquare via the [myReviewsPage](http://www.myreviewspage.com/blog/ myReviewsPage.com service and displays the number of online reviews for each on your website.
 
 Some features include: 
 
-* Automatically find and display your online reviews from your Google Place Page, Yahoo Local listing, Yelp, Bing, CitySearch and Foursquare
+* Automatically find and display your online reviews from your Google Places Page, Yahoo Local listing, Yelp, Bing, CitySearch and Foursquare
 * Display badge on any page or post on your WordPress website
 * Get email alerts when you receive a new online review (optional)
 * Optionally omit any of the review services from your badge
+
+More info:
+* [myReviewsPage Plugin](http://www.myreviewspage.com/blog/wordpress-plugin/)
+* Read more about [Local SEO and Online Reviews](http://www.expand2web.com/blog/) on Expand2Web
 
 == Installation ==
 
@@ -30,7 +36,7 @@ Installation instructions:
 
 == Frequently Asked Questions ==
 
-= I need help with the installation - how do I install the plugin?
+= I need help with the installation - how do I install the plugin? =
 
 You can find detailed installation instructions with screenshots here: http://www.myreviewspage.com/blog/wordpress-plugin/
 
